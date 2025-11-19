@@ -1,0 +1,25 @@
+{
+  "name": "rentik-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord бот для работы с RentikAI API",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "rentik",
+    "ai"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "axios": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
