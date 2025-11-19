@@ -22,7 +22,7 @@ Discord бот для интеграции с искусственным инт�
 
 ```bash
 # Клонируйте репозиторий (или создайте файлы вручную)
-git clone https://github.com/YOUR_USERNAME/rentik-discord-bot.git
+git clone https://github.com/timka20/rentik-discord-bot.git
 cd rentik-discord-bot
 
 # Установите зависимости
